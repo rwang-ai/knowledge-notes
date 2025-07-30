@@ -1,3 +1,10 @@
+# Problem Statement
+
+The core problem OAuth 2 address is to enable users grant 3rd party applications limited access 
+to their resources on a service, with specific permissions defined by scopes, without sharing 
+their credentials with those applications.
+
+Concepts
 - OAuth scopes  - access levels, providing transparency to client on what they are permitting the client to do during the authorization process.
 - OAuth flows - 
     - Authorization code flow 
@@ -8,6 +15,9 @@
 
 
 https://frontegg.com/blog/oauth
+
+[OAuth Explained In Simple Terms](https://www.youtube.com/watch?v=ZV5yTm4pT8g)
+
 
 Case Study 
 
