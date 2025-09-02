@@ -1,0 +1,10 @@
+- Vibe coding was what impressed most people, even these academic/industry experts
+- MCP feels like a big leap over RAG
+- Hallucination is still one of the biggest blockers for enterprise adoption
+- Claude Code + Playwright opens up a new way to build software
+- How to model memory is not yet solved
+- Cancer will be cured in 10 years
+- We are not limited by what we can do, we are limited by what we think we can do. Try and fail, not fail to try
+- In 2–3 years, models may surpass humans in more areas (already are)
+- The real opportunity is in deep understanding of domain, users, and use case
+- This is the best time in history to enjoy learning
