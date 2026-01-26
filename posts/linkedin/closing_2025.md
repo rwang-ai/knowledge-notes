@@ -1,0 +1,5 @@
+I’m closing out 2025. It’s a bit embarrassing to admit that I didn’t finish all 20 posts I had committed to this year, so I’ll carry a few over into 2026. Despite that, the learning has been enormous.
+
+I explored many ways to use AI—first as hands-on coding assistance, then as a thought partner, “vibe coding" prototypes to align teams, while also using it to understand my own learning style and intrinsic motivation. Then I learned when not to rely on AI. I've also put myself into uncomfortable experiences - trying out part time incubator, writing learning in public posts wondering if they are too trival. One of my most important learning is, work is team supports. 
+
+In 2026, I am hoping to establishing healthier, more sustainable boundaries, listen more patiently, compounding my learning, and saying no to more interesting distractions to double down on core skills, and after all creating more positive impact through my work.
