@@ -1,0 +1,1 @@
+A single server generally can hold tens of thousands connections
