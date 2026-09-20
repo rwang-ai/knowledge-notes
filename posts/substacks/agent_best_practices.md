@@ -12,6 +12,7 @@ boudnaries (prompt, tools, application code)
 
 agent loop
     - what kind of retries (tool level, agent level, what kind of idempotency guarantee)
+    - read vs. write path 
 
 cost
     - output 5x > input, brievity 
